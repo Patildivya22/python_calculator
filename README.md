@@ -17,7 +17,8 @@ A simple command-line calculator built using Python. This project allows users t
    ```bash
    git clone https://github.com/your-username/python-calculator.git
 
-   ## sample output
+
+    sample output
     Welcome to Python Calculator
 Select operation:
 1. Add 
